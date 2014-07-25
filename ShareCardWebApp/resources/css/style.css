@@ -1,0 +1,364 @@
+html {
+height: 100%;
+}
+body {
+    background-color: #fff;
+    margin-left: 5%;
+    margin-right: 5%;
+    height: auto;
+    height: 100%;
+}
+.naslov {
+    text-align: left;
+   
+}
+
+
+
+/**
+  * Heading
+  **/
+.naslovi {
+padding-top: 20px;
+padding-left: 10px;
+text-decoration: none;
+color: black;
+padding-bottom: 20px;
+padding-right: 15px;
+
+}
+.logout {
+    position: fixed;
+    margin-top: -40px;
+    left: 92%;
+    padding-top: 20px;
+    padding-left: 20px;
+    height: 40px;   
+   
+    padding-right: 35px;
+    text-decoration: none;
+    font-family: "Museo Sans 500";
+    color: black;
+}
+.naslovi:hover{
+    color: #fff;
+    background-color: #31343D;
+}
+.header {
+    text-align: center;
+    width: 100%;
+    border: 1pt solid black;
+}
+.baza {
+    border-right: 1pt solid black;
+    height: 40px;
+    
+
+}
+
+.footer {
+    font-family: "Museo Sans 500";
+    padding-top: 10px;
+    position: absolute;
+    width: 90%;
+    color: #4e4848;
+   
+    bottom: 0;
+
+}
+.login {
+    margin-left: 10%;
+    width: 400px;
+}
+.pocetna_slika {
+      position: absolute;
+    top: 200px;
+    margin-left: 45%;
+    
+    
+}
+.pocetna_slika2 {
+    position: absolute;
+    top: 200px;
+    margin-left: 45%;
+    
+}
+.slika {
+    margin-left:  15%;
+    margin-top:4%;
+    left:15%;
+    width: 475px;
+    height: auto;
+}
+
+.slika2 {
+    margin-left: 180px;
+    position: absolute;
+    width: 40px;
+    height: 40px;
+}
+.slika3 {
+    text-decoration: none;
+    margin-top: 10px;
+    padding-right: 20px;
+    margin-bottom: -15px;
+    display: inline;
+}
+.ulogiran {
+
+    padding-left: 40px;
+}
+
+.login_pass {
+
+    padding-left: 10px;
+    width: 240px;
+    height: 25px;
+    margin-bottom: 10px;
+    transition: width 1s;
+}
+.login_name {
+
+    padding-left: 10px;
+    width: 240px;
+    height: 25px;
+    margin-bottom: 10px;
+    transition:width 1s;
+}
+.forgot_pass {
+    padding-left: 10px;
+    width: 200px;
+    height: 25px;
+    margin-bottom: 10px;
+
+}
+.login_pass:focus{
+    width: 260px;
+}
+.login_name:focus {
+    width: 260px;
+}
+
+
+.gumb:hover {
+    background-color: #F08A40;
+    border-color:  #F08A40;
+}
+.gumb:focus {
+    background-color: #0f287b;
+    border-color: #0f287b;
+    
+}
+.gumb {
+    margin-top: auto;
+    text-decoration: none;   
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    box-sizing: border-box;
+    color: black;
+    background-color: #F06C4F;
+    border-color: #F06C4F;
+    text-align: center;
+    cursor: default;
+    height: 35px;
+    min-width: 6em;
+    font-size: medium;
+    font-family: "Museo Sans 500";
+}
+.gumb2 {
+    float: left;
+    margin-top: -60px;
+    margin-left: 70%;
+    position: relative;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    box-sizing: border-box;
+    color: #1E82CC;
+    background-color: #fff;
+    border-color: #1E82CC;
+    text-align: center;
+    cursor: default;
+    height: 35px;
+    min-width: 8em;
+    font-size: small;
+    font-family: "Museo Sans 500";
+}
+.gumb2:hover {
+    background-color:#1fb0df;
+    border-color:  #1fb0df;
+    color: black;
+}
+#linkovi {
+  
+
+}
+#linkovi label {
+    margin-top: 150px;
+}
+.link {
+    text-decoration: none;
+    color:#31343D;
+}
+.link:hover {
+    color: #1fb0df;
+    cursor: pointer;
+}
+
+.zaglavlje {
+
+    font-family: "Museo Sans 500";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 60px;
+    background-color: #2E8370;
+    color: #fff;
+    padding-left: 20px;
+    text-align: justify;
+    text-decoration: none;
+}
+
+.logout:hover {
+    background-color: #31343D;
+    color: #fff;
+    
+}
+
+
+.zaglavlje2 {
+    font-family: "Museo Sans 500";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 50px;
+    background-color: #2E8370;
+    padding-left: 20px;
+    text-align: justify;
+    text-decoration: none;
+    padding-bottom: 10px;
+}
+.registracija {
+    margin-top: 75px;
+    padding-left: 30px;
+}
+.naziv {
+    padding-left: 10px;
+    height: 25px;
+    width: 190px;
+    margin-bottom: 20px;
+
+}
+
+.naziv2 {
+    padding-left: 10px;
+    margin-bottom: 20px;
+    height: 25px;
+    width: 400px;
+
+
+}
+
+.rodenje {
+    margin-bottom: 20px;
+    height: 31px;
+    width: 136px;
+}
+
+.rodenje2 {
+    margin-bottom: 20px;
+    height: 31px;
+    width: 136px;
+}
+
+#zaboravljen {
+    display:none;
+    list-style:none;
+}
+.error {
+    color: #f00;
+}
+/**
+  * vise.php 
+  **/
+.vise_artikle {
+    margin-top: 100px;
+    width: 45%;
+    text-align: justify;
+
+}
+/**
+  * pocetna.php 
+  **/
+.moje_vizitke {
+    position: absolute;
+    margin-top: 50px;
+}
+.moji_predlosci {
+    position: absolute;
+    margin-top: 50px;
+    left: 33%;
+    
+}
+/**
+  *onlineBazaVizitki
+  **/
+.slika4 {
+    position: absolute;
+}
+table {
+    margin-left: 25%;
+    margin-top: 100px;
+}
+.tablica th{
+    background-color: #2E8370;
+    border-radius: 3px;
+    padding:15px;
+    
+}
+.tablica td{
+    text-align: center;
+    background-color: BlanchedAlmond;
+    color: #2E8370;
+    padding: 1px;
+    border-radius: 5px;
+    
+}
+/**
+  *  onlineBazaVizitki idividualna kartica
+  **/
+.podaci {
+    padding: 10px;
+    text-align: left;
+    color: black;
+    background-color:#F08A40; 
+    border-radius: 3px;
+    width: 200px;
+}
+.vizitka {
+    position: absolute;
+    top: 150px;
+    margin-left: 25%;
+    
+}
+.rasume {
+     position: inherit;
+        margin-bottom: 50px;
+        margin-top: -50px;
+}
+.rasume img{
+    width: 90%;
+    
+    position: relative;
+    top: 150px;
+    margin-left: 5%;
+}
