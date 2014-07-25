@@ -1,0 +1,12 @@
+shareCard Demo
+
+Opis aplikacije:
+Aplikacijom shareCard želimo omogućiti kreiranje mobilnih, odnosno digitalnih vizitki koje su personalizirane i interaktivne te ih je jednostavno podijeliti.
+Svaki korisnik može besplatno kreirati svoju vizitku te ju povezati sa svojom vremenskom crtom na kojoj se dodaju željeni podatci o karijeri i životu pojedinca.
+Brza razmjena i pretraživanje vizitki omogućuju jednostavno pronalaženje kontakata i pregled svih podatka. 
+
+Kategorija:
+Business
+
+Kontakt e-mail:
+jaandric@foi.hr, dafilipaj@foi.hr, lotomic@foi.hr
